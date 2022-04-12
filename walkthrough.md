@@ -1,7 +1,7 @@
-'''
+---
 permalink: /walkthrough/
 title: Portfolio Building Tutorial
-'''
+---
 
 <h1><a href="https://app.tango.us/app/workflow/26e28e1f-2774-4f1b-b52f-63ac67126c3f?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Build a Portfolio Website with Github Pages</a></h1>
 <div><b>Date:</b> April 12, 2022</div>
