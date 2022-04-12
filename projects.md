@@ -16,7 +16,7 @@ Here's a video describing Project 1!
 
 Here's a presentation that I did for Project #2
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkw269bjDnj68bYQkjYnUwzwkuSaUx9lmgbIdFCDoqmuXfSo6EurGY45-A_Ir0FAqyBYz4S-F9GuYw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkw269bjDnj68bYQkjYnUwzwkuSaUx9lmgbIdFCDoqmuXfSo6EurGY45-A_Ir0FAqyBYz4S-F9GuYw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Project #3
